@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  
+ 
+  
+}
+html {
+  background: rgb(38, 43, 73)
+}
+
+.input--button {
+  margin: 0 auto;
+}
+.input--button input {
+  border: none;
+  outline: none;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 8px;
+  text-align: center;
+
+}
+.input--button button {
+  border-radius: 8px;
+  padding: 8px;
+  margin: 10px;
+  border: none;
+  background: rgba(251, 255, 251, 0.371)
+}
+
+.cart {
+  display:flex;
+  flex-wrap: wrap;
+
+
+
+}
+.title {
+  color: white;
+  display: flex;
+  margin: 10px;
+  flex-direction: column;
+}
+
+
+
+
+
